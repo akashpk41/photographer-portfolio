@@ -1,0 +1,32 @@
+#name{
+    color: #ff5e00;
+}
+
+header {
+    background: #10752559;
+}
+
+
+
+.contact {
+    font-size: 35px;
+}
+
+.social-icon{
+    width: 193px;
+    height: 121px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+    cursor: pointer;
+}
+#akash-pk{
+    font-size: 14px;
+}
+footer a {
+    text-decoration: none;
+    color: white;
+}
+footer a:hover {
+    text-decoration: underline;
+    color: orangered
+}
